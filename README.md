@@ -1,1 +1,7 @@
 # Proyecto_Agenda
+
+Las agendas son muy útiles a la hora de organizar nuestro día a día. Como estudiante, al tener diversas actividades al día, incluso a la semana, tener organización es algo fundamental para el desarrollo de tu profesión. Por ende, el reto de crear una agenda de organización se me hizo un reto interesante a afrontar. Yo llevo una agenda física, y quizás el automatizar y optimizar el proceso de la agenda me pueda permitir, a mí y a los que gusten ser parte del proyecto, a mejorar día con día el rendimiento personal y profesional. 
+
+La idea del proyecto es desarrollar una agenda que lleve horas, del tipo calendario para las actividades del día que el usuario argegue a la hora respectiva. Incluirá además objetivos diarios que no llevan hora específica, que el usuario introduzca como objetivos independientes, que serán recordados los días que el usuario seleccione. A sí mismo, todo el registro se llevará en archivos de texto, que son creados diariamente para llevar un registro de lo cumplido en días anteriores.
+
+Finalmente, como potenical inclusión en el proyecto, se está pensando en incluir objetivos personalizados del tipo de progreso, es decir, objetivos que el usuario introduzca junto con su límite de tiempo, y que introduzca qué tipo de datos debe pedir para ir determinando el cumplimiento de los objetivos. Esta es una idea que está en proceso, pero que suena convincente y ambiciosa para el creador.
