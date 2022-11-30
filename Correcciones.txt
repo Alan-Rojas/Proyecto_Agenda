@@ -1,0 +1,22 @@
+Historial de Correcciones del proyecto Agenda. 
+
+Alan Rojas López
+A01706146
+
+En la corrección del primer avance modifiqué el Github. Ya que había puesto dos repertorios para dos entregas. 
+
+Durante la segunda corrección, ya empezando el diagrama de UML
+,no incluí la herencia; además de incluir nombres inprecisos. 
+
+En la tercera entrega, que fue del código cometí muchos errores. Empezando por los archivos. 
+Yo utilicé un mismo archivo para declaración e implementación de TODAS las clases, y fue un desastre. 
+Así que corregí eso, ahora tenía archivos separados para cada clase. Además, no había entendido bien 
+cómo implantar agregación e implementación en el código. 
+
+Ya para la última corrección hice varias cosas. Primero, me dí cuenta que si bien tenía un archivo 
+para cada clase, estos eran .cpp en vez de .h; corrección a realizar. 
+Posteriormente implementé de mejo manera la herencia, ya que sólo hacía referencia a ella. 
+La agregación por fin quedó adecuada, ya tenía sentido que en el diagrama UML existiera esa relación. 
+Y, finalmente, hice unos ajustes en las declaraciones de las variables, pasé a trabajar con listas. 
+De esta manera puedo trabajar con varias tareas y no existe problema, a contraparte de usar variables. 
+
